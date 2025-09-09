@@ -4,7 +4,7 @@
 
 ## How to run?
 
-1. Open `CLIPCaption.ipynb` in Google Colab.
+1. Open `CLIPCaptionGenerator.ipynb` in Google Colab.
 2. Run all cells.
 3. Upload any image and get intelligent captions.
 
